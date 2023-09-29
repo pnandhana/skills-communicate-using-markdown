@@ -8,3 +8,6 @@ print("totoro")
 ```javascript
 const pi=3.14
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
